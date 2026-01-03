@@ -4,7 +4,7 @@
 
 ## Steps
 <br />
-<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODApp
+<b>Step 1.</b> Clone this repository
 <br/><br/>
 <b>Step 2.</b> Install Node https://nodejs.org/en/
 <br/><br/>
