@@ -12,13 +12,7 @@
 <pre>npm install</pre>
 <br/><br/>
 
-<br/><br/>
-<b>Step 5.</b> Create a new bucket and store model.json and .bin files into the bucket.</a> 
-<img src="https://i.imgur.com/lN9lFLJ.png">
-<br/><br/>
-<b>Step 6.</b> Enable public access policy.</a> 
-<img src="https://i.imgur.com/sstZfBG.png">
-<br/><br/>
+
 <b>Step 7.</b> Download and install the Cloud Object Store plugin.</a> 
 <br/><br/>
 <b>Step 8.</b> Login to the IBM Cloud CLI, target the right region and run the following command from inside of the TFODApp folder.</a> 
