@@ -45,9 +45,4 @@ KeyError: 'ThumbsDown' # YOUR LABEL HERE
 <b>Error:</b>CUBLAS_STATUS_ALLOC_FAILED or CUDNN_STATUS_ALLOC_FAILED <br/>
 <b>Solution:</b> This is because the available VRAM on your machine is completely consumed and there is no more memory available to train. Quit all of your Python programs and stop your Jupyter Notebook server to free up the VRAM and run the command again. 
 
-
-
-Template
-<b>Error:</b> <br/>
-<b>Solution:</b> 
 <pre></pre>
