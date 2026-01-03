@@ -24,7 +24,7 @@ yarn-error.log*
 
 
 /tfod
-/Tensorflow
-/.ipynb_checkpoints
-/ipynb_checkpoints
-.ipynb_checkpoints
+train_model/Tensorflow
+train_model/.ipynb_checkpoints
+train_model/ipynb_checkpoints
+train_model/.ipynb_checkpoints
