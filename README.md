@@ -11,7 +11,7 @@
 <b>Step 3.</b> Install App Depdendencies 
 <pre>npm install</pre>
 <br/><br/>
-<b>Step 4.</b> Create a new free object storage repository on IBM Cloud <a href="https://cloud.ibm.com/objectstorage/create">Create Cloud Object Storage Bucket</a> 
+
 <br/><br/>
 <b>Step 5.</b> Create a new bucket and store model.json and .bin files into the bucket.</a> 
 <img src="https://i.imgur.com/lN9lFLJ.png">
